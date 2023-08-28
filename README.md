@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aagalic
-- 👀 I’m interested in Javascript & PHP
+- 👀 I’m interested in Javascript, Python & PHP
 
 <!---
 aagalic/aagalic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
